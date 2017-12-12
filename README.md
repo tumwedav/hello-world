@@ -1,2 +1,5 @@
 # hello-world
-just a new repository
+
+hello guys!
+
+Am David...i like hacking!!
